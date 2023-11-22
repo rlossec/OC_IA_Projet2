@@ -23,11 +23,8 @@ L'objectif principal de cette analyse est de comprendre les caractéristiques de
 
 ## Comment utiliser ce Dataset
 
-Le fichier principal du dataset est `p2-arbres-fr.csv`. Le code source utilisé pour l'exploration et le nettoyage est disponible dans le fichier Jupyter Notebook `exploration_nettoyage.ipynb`. Vous pouvez exécuter ce notebook pour reproduire les étapes que nous avons suivies.
+Le fichier principal du dataset est `p2-arbres-fr.csv`. Le code source utilisé pour l'exploration et le nettoyage est disponible dans le fichier Jupyter Notebook `script.ipynb`. Vous pouvez exécuter ce notebook pour reproduire les étapes que nous avons suivies.
 
-## Contact
-
-Pour toute question ou commentaire, n'hésitez pas à contacter [votre_nom] à [votre_email].
 
 Bonne exploration !
 
@@ -57,10 +54,6 @@ The main objective of this analysis is to understand the characteristics of tree
 
 ## How to Use this Dataset
 
-The main file of the dataset is `p2-arbres-fr.csv`. The source code used for exploration and cleaning is available in the Jupyter Notebook file `exploration_nettoyage.ipynb`. You can run this notebook to replicate the steps we have taken.
-
-## Contact
-
-For any questions or comments, feel free to contact [your_name] at [your_email].
+The main file of the dataset is `p2-arbres-fr.csv`. The source code used for exploration and cleaning is available in the Jupyter Notebook file `script.ipynb`. You can run this notebook to replicate the steps we have taken.
 
 Happy exploring!

@@ -1,10 +1,8 @@
-# EDA du dataset des arbres de Paris
+# Analyse exploratoire des arbres de Paris
 
-Bienvenue dans le projet d'exploration et de nettoyage du dataset d'arbres en vue d'une étude des tournées d'arrosage. Ce README fournit des informations importantes sur les données, le processus de nettoyage et les étapes d'exploration que nous avons entreprises.
+Projet d'exploration et de nettoyage du dataset d'arbres en vue d'une étude des tournées d'arrosage. 
 
-## Aperçu du Dataset
-[Dataset](https://opendata.paris.fr/explore/dataset/les-arbres/export/)
-Le dataset que nous utilisons pour cette étude contient des informations sur les arbres, notamment leur localisation, leur circonférence, leur hauteur, et leur stade de développement.
+Le [dataset](https://opendata.paris.fr/explore/dataset/les-arbres/export/) utilisé pour cette étude contient des informations sur les arbres, notamment leur localisation, leur circonférence, leur hauteur, et leur stade de développement.
 
 ## Objectif de l'étude
 
@@ -34,8 +32,8 @@ Bonne exploration !
 Welcome to the exploration and cleaning project of the tree dataset for a study on watering routes. This README provides important information about the data, the cleaning process, and the exploration steps we have taken.
 
 ## Dataset Overview
-[Dataset](https://opendata.paris.fr/explore/dataset/les-arbres/export/)
-The dataset we use for this study contains information about trees, including their location, circumference, height, and development stage.
+
+The [dataset](https://opendata.paris.fr/explore/dataset/les-arbres/export/) we use for this study contains information about trees, including their location, circumference, height, and development stage.
 
 ## Study Objective
 
